@@ -1,0 +1,24 @@
+.user-list-container{
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 5%;
+
+}
+.user-list-container img{
+    width: 70%;
+    height: 70%;
+    
+}
+.user-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    border: 1px solid black;
+
+}
